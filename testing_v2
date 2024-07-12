@@ -1,0 +1,23 @@
+	
+Reference ;- http://travcx.dev.com/dashboard/pax/paxlayout/pax/NA%3D%3D	
+	
+APPS->CX->PAX	APPS->CX->BUISNESS
+Passport Number generally consist of a combination of letters and numbers , Special characters such as punctuation marks, symbols, or spaces are not used in passport numbers	Allow only alphabetic characters for first and last names in the passenger contact search information.
+	
+At CX PAX Creation, entering an address results in it being labeled as 'Suresh Kumar.T'.	Ensure that 'name', 'code', 'budget from', and 'budget to' fields accept inputs in their respective appropriate formats.
+	
+"Bank account should allow only numbers , some internatinal banks may accept letters 
+But doesn't include special characters"	~~~All business fields must accept inputs in their appropriate formats~~~
+	
+"Numbers and special characters (e.g., @, #, $, %, &, *) are generally not used in bank 
+account names. This is to maintain consistency and avoid confusion in the banking system."	
+	
+Cheque digits should allow number only 	
+	
+The document number must contain only numeric characters.	
+	
+During verification, the type and value must follow the specified format and accept valid input.	
+	
+"During qualification, the college/university name, certification number must follow the specified format 
+and accept valid input."	
+

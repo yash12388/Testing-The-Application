@@ -1,0 +1,19 @@
+Request -> Create Request 
+
+First and last names should only contain alphabets.
+
+Phone numbers should be displayed according to the country code.
+ 
+For round trip bookings, if the date is in the past, an error message should indicate the issue.
+
+
+SR Flight Request
+
+Updating a 'One Way' flight to 'Multi City' doesn't show the option to add cities or countries.
+
+Round-trip bookings should only allow present and future dates, but past dates are currently allowed.
+
+SR Hospital Request
+
+Hospital booking dates should only allow present and future dates, but past dates are currently allowed.
+

@@ -1,0 +1,15 @@
+S.NO	DETAILS
+	
+1	Tested Anxiliary Bookings By Quotes, Direct, And By RFP.
+	
+2	Tested Filters In Booking Reports.
+	
+3	Tested By Increasing PAX Count Upto 100 , And It Allowed.
+	
+4	Booked A Future Data i.e., 200+ Days After And It Allowed (Don't Know If This Is Really A Bug).
+	
+5	"Learning Docker Simultaneously (Also ReInstalled GitLab As It Is Not Loading , Practiced Some New 
+Linux Commands)."
+	
+	~ Today I've Tested Only Few , Asked Akbar To Teach EveryModule EveryDay For Testing ~
+

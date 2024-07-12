@@ -1,0 +1,11 @@
+S.NO	TESTED FUNCTIONS
+	
+1	Hotel Booking Details Are Missing From Quotes Added Via RFP.
+	
+2	When I Saved The Hotel Supplier Lists To Quotes Without Any Data, It Displayed An Empty Quote.
+	
+3	"While Listing Supplier Details Into Quotes, The First Supplier Included Hotel Name, 
+Room Name, And Room Type, But The Next Supplier Did Not."
+	
+4	While Creating PAX Info, The DOB Allows The Current Date, But PAX Should Be Old Enough.
+

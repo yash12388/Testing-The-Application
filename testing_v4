@@ -1,0 +1,44 @@
+LEADS->CREATE LEADS(BETA)->LEADS INFORMATION LIST	
+	
+URL	http://travsr.dev.com/dashboard/lead-management/lead-owner-info-list
+	
+	TASKS
+1	Checked Filters
+2	Created A Lead 
+	
+	
+	FAULTS IN FILTERS
+1	Lead Name Should Allow Only Alphabets Inside It's Field
+2	Phone No Should Allow Only Numbers 
+	
+	
+	
+LEADS->CREATE LEADS(BETA)->OUT-REACH(BETA)	
+	
+URL	http://travsr.dev.com/dashboard/lead-management/lead-owner-info-list
+	
+	TASKS
+1	Checked Filters
+2	Created A Lead 
+	
+	
+	FAULTS IN FILTERS
+1	Lead Name Should Allow Only Alphabets Inside It's Field
+2	Phone No Should Allow Only Numbers 
+	
+	
+	
+QUOTES->OPEN	
+	
+URL	http://travsr.dev.com/dashboard/quotes/open
+	
+	TASKS
+1	Search By Contact Function Is Not Functioning
+	
+As Well As In "Quote Sent" And "Approved" Page The Search By Contact Function Is Not Working	
+	
+	
+	
+OTHER TASKS WHICH I HAVE DONE IN A DAY	
+Ubuntu Got Cracked In Vmware ,So Then ReInstalled And Configured	
+

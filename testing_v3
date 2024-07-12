@@ -1,0 +1,52 @@
+		INPUTS							
+									
+ESSENTIAL INFORMATION	Trail-1	Trail-2	Trail-3					Bugs;-	Description
+Property Name	Yes	Yes	Yes					1	The URL does not generate an ID for the Property entity called "Bolt Enclave."
+Property Code	Yes	Yes	Yes					2	After creating the "Bolt Enclave" property, it is not working in the property details list.
+Property Description	Yes	Yes	Yes					3	Auto Generated ID Is Not Working 
+Property Short Description	Yes	Yes	Yes					4	Property Creation Limit Is Set To 10 , So Further Property Details Results isn't Displaying in "Property Details List"
+Total UOM	Yes	Yes	Yes					5	I encountered a minor bug where inputting 20 for buildings displayed 19 after saving, but it showed the correct number after testing again.
+Total Value	Yes	Yes	Yes						
+Net UOM	Yes	Yes	Yes						
+Net Value	Yes	Yes	Yes						
+Price From	Yes	Yes	Yes						
+Price To	Yes	Yes	Yes						
+Price Avg	Yes	Yes	Yes						
+Currency	Yes	Yes	Yes						
+EMI Start	Yes	Yes	Yes						
+Photos	No	Yes	Yes						
+Available	No	Yes	Yes						
+Furnishing	Yes	No	Yes						
+Property - Information									
+Buildings	Yes	Yes	No						
+Blocks	Yes	Yes	No						
+Units	Yes	Yes	No						
+Unit Sizes		Yes	No						
+From UOM	Yes	Yes	No						
+From Value	Yes	Yes	No						
+To UOM	Yes	Yes	No						
+To Value	Yes	Yes	No						
+Property Type	Yes	Yes	No						
+Property Sub Type	Yes	Yes	No						
+PossessionStatus	Yes	Yes	Yes						
+Videos	Yes	No	Yes						
+Brochure	No	No	Yes						
+Project - Information									
+Builder	Yes	Yes	Yes						
+Promoter	Yes	Yes	Yes						
+Launch	Yes	Yes	Yes						
+Possession	Yes	Yes	Yes						
+Posted	Yes	Yes	Yes						
+Exclusive Properties	Yes	Yes	No						
+Unit Type	No	No	Yes						
+Address-Information	Yes	Yes	Yes						
+Contextual - Information	Yes	Yes	No						
+Society Type	Yes	Yes	No						
+Sales Type	Yes	Yes	No						
+Listed By	Yes	Yes	Yes						
+Posted By	Yes	Yes	Yes						
+Verified	Yes	Yes	Yes						
+Ownership	No	Yes	No						
+Amenities - Information	Yes	Yes	Yes						
+
+
